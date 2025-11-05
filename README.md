@@ -7,6 +7,11 @@
 A **AJF Supervisão Condominial** atua com foco em proporcionar **organização, eficiência e segurança** na rotina dos condomínios. Nosso trabalho é ser os **olhos do síndico**, garantindo que cada detalhe da gestão esteja alinhado à excelência.
 
 ---
+##  Badges de Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ##  Acesse o site
 
@@ -40,7 +45,7 @@ O design foi pensado para transmitir **profissionalismo, confiança e proximidad
 
 ---
 
-## 💡 Funcionalidades
+##  Funcionalidades
 
 ✅ Menu fixo e responsivo  
 ✅ Animações suaves nas seções  
@@ -51,7 +56,7 @@ O design foi pensado para transmitir **profissionalismo, confiança e proximidad
 
 ---
 
-## 🧑‍💼 Sobre a empresa
+##  Sobre a empresa
 
 A **AJF Supervisão Condominial** nasceu da necessidade de **profissionalizar o acompanhamento da rotina condominial**, com atenção aos detalhes e foco na excelência operacional.
 
@@ -77,4 +82,4 @@ Este projeto é de uso exclusivo da **AJF Supervisão Condominial**.
 Reprodução, redistribuição ou uso indevido do código ou identidade visual sem autorização é proibido.
 
 ---
-[Clique aqui para acessar o site da AJF Supervisão Condominial](https://seuusuario.github.io/ajf-supervisao/)
+
