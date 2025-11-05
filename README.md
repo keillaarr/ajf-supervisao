@@ -40,8 +40,6 @@ O design foi pensado para transmitir **profissionalismo, confiança e proximidad
 - **JavaScript** — interatividade e animações sutis  
 - **GitHub Pages** — hospedagem gratuita e prática  
 
----
-
 
 ---
 
@@ -81,5 +79,5 @@ Desenvolvedora Fullstack
 Este projeto é de uso exclusivo da **AJF Supervisão Condominial**.  
 Reprodução, redistribuição ou uso indevido do código ou identidade visual sem autorização é proibido.
 
----
+
 
